@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Analyzia
+# 🤖 Analyzia 
 
 **Talk to your data. Instantly analyze, visualize, and transform.**
 
