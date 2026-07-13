@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Analyzia 
+# 🤖 Dataset Analysis tool 
 
 **Talk to your data. Instantly analyze, visualize, and transform.**
 
